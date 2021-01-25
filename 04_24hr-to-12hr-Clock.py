@@ -14,4 +14,3 @@ else:
     time = hr24Input
 
 print(time, suffix)
-
