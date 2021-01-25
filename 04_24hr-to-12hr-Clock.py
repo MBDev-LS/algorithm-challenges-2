@@ -8,6 +8,9 @@ elif hr24Input == 12:
     suffix = 'PM'
     time = hr24Input
 
+elif hr24Input == 0:
+    suffix = 'AM'
+    time = 12
 
 else:
     suffix = 'AM'
